@@ -1,0 +1,1 @@
+mplayer -nosound -fs -fps 60 -vo gl -vsync tv:// -tv driver=v4l2:device=/dev/video0
